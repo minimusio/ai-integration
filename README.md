@@ -21,9 +21,3 @@ The plugin bundles two skills:
 **OpenAI Codex** — run `/plugins`, choose **Add Marketplace** → `minimusio/ai-integration`, then install the `minimus` plugin.
 
 **Cursor** — install the `minimus` plugin from the Cursor Marketplace.
-
-For organization-wide installation, see the Minimus docs: https://www.minimus.io
-
-## License
-
-[MIT](LICENSE). "Minimus" is a trademark — see [TRADEMARKS.md](TRADEMARKS.md).
