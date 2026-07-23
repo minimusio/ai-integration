@@ -24,4 +24,4 @@ Run `/plugins`, choose **Add Marketplace** → `minimusio/ai-integration`, then 
 
 **Cursor**
 
-Install the `minimus` plugin from the Cursor Marketplace.
+Run `/add-plugin` in Agent chat, search for `minimus`, and install it.
