@@ -1,7 +1,7 @@
 {
   "name": "minimus",
   "description": "Minimus hardened-image skills (Dockerfile & Kubernetes)",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": { "name": "Minimus", "url": "https://www.minimus.io" },
   "license": "MIT"
 }
