@@ -9,15 +9,8 @@ description: >
 ---
 # Minimus Dockerfile Rules for AI Agents
 
-**Version:** `1.0.2`
-
 These rules tell you how to write and migrate **Dockerfiles** that use Minimus
 hardened distroless images, served from the registry `reg.mini.dev`.
-
-**Staying current (soft check):** you may GET `https://api.mini.dev/v1/skills/dockerfile`
-(the latest skill markdown) and compare its `**Version:**` line to the version above. If it
-is newer, tell the user a newer version is available — they can re-copy it from the Minimus
-console. This is advisory only: never halt or block a task over a version difference.
 
 ## When these rules apply
 
