@@ -6,7 +6,7 @@
       "name": "minimus",
       "source": "./plugins/cursor",
       "description": "Minimus hardened-image skills (Dockerfile & Kubernetes)",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "author": { "name": "Minimus" }
     }
   ]
