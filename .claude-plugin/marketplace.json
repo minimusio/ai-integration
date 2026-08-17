@@ -1,5 +1,6 @@
 {
   "name": "minimusio",
+  "description": "Minimus plugins that teach AI coding tools to build Dockerfiles and Kubernetes manifests on hardened near-zero-CVE images",
   "owner": { "name": "Minimus", "email": "support@minimus.io" },
   "plugins": [
     {
@@ -7,7 +8,9 @@
       "source": "./plugins/claude",
       "description": "Minimus hardened-image skills (Dockerfile & Kubernetes)",
       "version": "1.0.4",
-      "author": { "name": "Minimus" }
+      "author": { "name": "Minimus" },
+      "category": "security",
+      "homepage": "https://www.minimus.io"
     }
   ]
 }
