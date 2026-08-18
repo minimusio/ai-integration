@@ -24,4 +24,4 @@ Run `/plugins`, choose **Add Marketplace** → `minimusio/ai-integration`, then 
 
 **Cursor**
 
-Run `/add-plugin` in Agent chat, search for `minimus`, and install it.
+Run `npx skills add minimusio/ai-integration -g -a cursor -s minimus-dockerfile -s minimus-k8s -y`.
